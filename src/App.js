@@ -1,10 +1,10 @@
 import React from "react";
-import Restaurants from "./components/Restaurants";
+import Restaurant from "./component/Basic/Restaurant";
 
 const App = () => {
   return (
     <>
-      <Restaurants />
+      <Restaurant />;
     </>
   );
 };
