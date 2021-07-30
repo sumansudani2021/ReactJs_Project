@@ -177,6 +177,7 @@ const Menu = [
           category: "Breakfast",
           price: "50₹",
         },
+      
   ];
   
   export default Menu;
